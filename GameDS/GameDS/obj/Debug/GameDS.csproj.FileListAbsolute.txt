@@ -1,0 +1,35 @@
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\bin\Debug\GameDS.exe.config
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\bin\Debug\GameDS.exe
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\bin\Debug\GameDS.pdb
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\obj\Debug\GameDS.csprojResolveAssemblyReference.cache
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\obj\Debug\GameDS.Form1.resources
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\obj\Debug\GameDS.Properties.Resources.resources
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\obj\Debug\GameDS.csproj.GenerateResource.Cache
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\obj\Debug\GameDS.csproj.CoreCompileInputs.cache
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\obj\Debug\GameDS.exe
+C:\Users\Dany\AppData\Local\Temporary Projects\GameDS\obj\Debug\GameDS.pdb
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\bin\Debug\GameDS.exe.config
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\bin\Debug\GameDS.exe
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\bin\Debug\GameDS.pdb
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\obj\Debug\GameDS.Form1.resources
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\obj\Debug\GameDS.Properties.Resources.resources
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\obj\Debug\GameDS.csproj.GenerateResource.Cache
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\obj\Debug\GameDS.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\obj\Debug\GameDS.exe
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\obj\Debug\GameDS.pdb
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\GameDS.exe.config
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\obj\Debug\GameDS.exe
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\obj\Debug\GameDS.pdb
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\GameDS.exe
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\GameDS.pdb
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\mscorlib.dll
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\normidna.nlp
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\normnfc.nlp
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\normnfd.nlp
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\normnfkc.nlp
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\bin\Debug\normnfkd.nlp
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\obj\Debug\GameDS.csprojResolveAssemblyReference.cache
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\obj\Debug\GameDS.Form1.resources
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\obj\Debug\GameDS.Properties.Resources.resources
+C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS\obj\Debug\GameDS.csproj.GenerateResource.Cache
+C:\Users\Dany\Documents\Visual Studio 2017\Projects\GameDS\GameDS\obj\Debug\GameDS.csprojResolveAssemblyReference.cache

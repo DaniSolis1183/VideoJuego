@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDS", "GameDS\GameDS.csproj", "{40FB65D6-67A1-4957-926A-60D7CEF9C756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40FB65D6-67A1-4957-926A-60D7CEF9C756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FB65D6-67A1-4957-926A-60D7CEF9C756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FB65D6-67A1-4957-926A-60D7CEF9C756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FB65D6-67A1-4957-926A-60D7CEF9C756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DABD4A-6E90-4134-BD24-37FFC52719D7}
+	EndGlobalSection
+EndGlobal

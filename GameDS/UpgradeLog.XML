@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GameDS">
+</Property><Property Name="Solution File" Value="C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\GameDS.sln">
+</Property><Property Name="Date" Value="Monday, August 6, 2018">
+</Property><Property Name="Time" Value="7:02 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GameDS.sln" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS.sln">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\GameDS.csproj" Description="Project file successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\GameDS.csproj">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\GameDS.csproj.user" Description="Project user file successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\GameDS.csproj.user">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Form1.cs" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Form1.Designer.cs" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Program.cs" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Program.cs">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Properties\Settings.settings" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\App.config" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\App.config">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Form1.resx" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\Properties\Resources.resx" Description="File successfully backed up as C:\Users\rz9c0s\Documents\Visual Studio 2010\Projects\GameDS\Backup\GameDS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GameDS" Source="GameDS\GameDS.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="GameDS" Source="GameDS\GameDS.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="GameDS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GameDS.sln" Description="Converted">
+</Event></UpgradeLog>
